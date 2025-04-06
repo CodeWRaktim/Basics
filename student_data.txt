@@ -1,0 +1,7 @@
+Name: Raktim Ghosh
+Stream: CSE
+Age: 20
+Phone: 7029893714
+
+Email: raktim@gmail.com
+Roll Number: 150
